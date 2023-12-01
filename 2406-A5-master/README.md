@@ -7,7 +7,7 @@ I would download the github desktop client and clone this repository with it so 
 
 Import Info Below:
 
-website url: https://www.tristanzon.herokuapp.com (you've both been added by email as collaborators lmk if it doesn't let you in)
+website url: https://www.tristanzon.herokuapp.com 
 
 heroku logs url: https://dashboard.heroku.com/apps/tristanzon/logs (this is where you look at console.log() from the live server.)
 
