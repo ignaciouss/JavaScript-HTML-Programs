@@ -1,7 +1,7 @@
 To run this app you need a personal Paypal Account
 You can create on at paypal.com
 When you create the account you don't need to link a credit card or bank account at that
-time. I just ignored that step when prompted and it created the account anyway. I received confirmation by email.
+time. 
 
 1) Changing pay-pal account
 Visit app.js file then change client_id and client_secret with your
